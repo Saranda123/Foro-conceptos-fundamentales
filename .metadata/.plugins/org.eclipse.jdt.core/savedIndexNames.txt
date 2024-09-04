@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\57302\Documents\foro de CONCEPTOS FUNDAMENTALES DE PROGRAMACIÓN\.metadata\.plugins\org.eclipse.jdt.core
+1862727155.index
+2381242357.index
+1865797976.index

@@ -1,0 +1,14 @@
+package Multiple100;
+import java.util.Scanner;
+public class Multipleof100 {
+	public static void main (String[]args) {
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Enter a inerger");
+		int Number = scanner.nextInt();
+		int remainder_of_the_division = Number%100;
+		if (remainder_of_the_division == 0) {
+			System.out.println("multiple of 100");
+		}
+		else {
+			System.out.println("not multiple of 100");
+}

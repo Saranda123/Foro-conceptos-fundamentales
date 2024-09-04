@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\57302\Documents\foro de CONCEPTOS FUNDAMENTALES DE PROGRAMACIÓN\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1862727155.index
